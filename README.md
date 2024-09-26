@@ -1,1 +1,3 @@
 add red
+
+have red
